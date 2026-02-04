@@ -23,6 +23,3 @@ This project showcases photographs in a clean, minimal, and visually appealing l
 > ❌ Static website only
 
 ---
-
-## 📂 Project Structure
-
